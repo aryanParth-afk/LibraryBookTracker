@@ -2,7 +2,7 @@
 
 A Java Swing desktop application for managing a small library — track books, issue and return them, search the catalogue, and monitor overdue borrowings with automatic fine calculation.
 
-Built as a **BYOP (Bring Your Own Project)** capstone for an Object-Oriented Programming in Java course.
+Built for the **Java-Vityarthi Coursework** 
 
 ---
 
@@ -46,7 +46,7 @@ The main window shows a searchable book table with colour-coded status badges (g
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/LibraryBookTracker.git
+git clone https://github.com/aryanParth-afk/LibraryBookTracker.git
 cd LibraryBookTracker
 ```
 
@@ -139,9 +139,9 @@ LibraryBookTracker/
 
 ## 👤 Author
 
-**KAJAL PAREEK**  
+**ARYAN PARTH**  
 VIT BHOPAL UNIVERSITY 
-[24BHI10086]
+[24BCY10337]
 
 ---
 
